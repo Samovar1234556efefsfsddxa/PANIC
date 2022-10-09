@@ -1,4 +1,5 @@
-# PANIC
+![2022-10-10_00-06-32](https://user-images.githubusercontent.com/98663407/194779557-af8c6725-fb66-412a-947c-8066ec236ff5.png)
+# PANIC haqq
 PANIC monitoring and notification system
 
 PANIC is an open source monitoring and notification system for Cosmos-SDK, Substrate and Chainlink based nodes from Simply VC. The tool was built with user needs in mind and has many features such as phone calls for critical alerts, installation via Web-UI and Telegram/Slack alerts.
@@ -95,4 +96,5 @@ Configuring monitoring and alerts
 
 The configuration of node monitoring and notification channels is done at `https://{UI_ACCESS_IP}:8000`. For authorization we use `INSTALLER_USERNAME` and `INSTALLER_PASSWORD` which we specified in file `.env`. 
 
-After authorization, the monitoring wizard starts. All necessary actions are intuitive and commented in detail.
+After ![2022-10-10_00-09-41](https://user-images.githubusercontent.com/98663407/194779620-5353a79d-74e2-4489-b687-ad09a03612bc.png)
+authorization, the monitoring wizard starts. All necessary actions are intuitive and commented in detail.
