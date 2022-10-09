@@ -96,5 +96,6 @@ Configuring monitoring and alerts
 
 The configuration of node monitoring and notification channels is done at `https://{UI_ACCESS_IP}:8000`. For authorization we use `INSTALLER_USERNAME` and `INSTALLER_PASSWORD` which we specified in file `.env`. 
 
-After ![2022-10-10_00-09-41](https://user-images.githubusercontent.com/98663407/194779620-5353a79d-74e2-4489-b687-ad09a03612bc.png)
+After
 authorization, the monitoring wizard starts. All necessary actions are intuitive and commented in detail.
+![2022-10-10_00-09-41](https://user-images.githubusercontent.com/98663407/194779620-5353a79d-74e2-4489-b687-ad09a03612bc.png)
